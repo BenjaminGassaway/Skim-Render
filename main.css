@@ -119,38 +119,118 @@ button {
             bottom: 0;
         }
 
+.colours .btn_wrap .beige1.selected {
+    background-color: #FFF;
+    color: #FFF;
+}
+
+.colours .btn_wrap .beige2.selected {
+    background-color: #FFF;
+    color: #FFF;
+}
+
 .colours .btn_wrap .black.selected {
-    background-color: #212121;
+    background-color: #FFF;
     color: #FFF;
 }
 
-.colours .btn_wrap .blue.selected {
-    background-color: #2484E4;
+.colours .btn_wrap .blue1.selected {
+    background-color: #FFF;
     color: #FFF;
 }
 
-.colours .btn_wrap .red.selected {
-    background-color: #AF1E2D;
+.colours .btn_wrap .blue2.selected {
+    background-color: #FFF;
     color: #FFF;
 }
 
-.colours .btn_wrap .yellow.selected {
-    background-color: #FFCE00;
-    color: #212121;
+.colours .btn_wrap .bluegreen.selected {
+    background-color: #166D67;
+    color: #FFF;
+}
+
+.colours .btn_wrap .brown.selected {
+    background-color: #FFF;
+    color: #FFF;
+}
+
+.colours .btn_wrap .clear.selected {
+    background-color: #FFF;
+    color: #FFF;
+}
+
+.colours .btn_wrap .green1.selected {
+    background-color: #FFF;
+    color: #FFF;
+}
+
+.colours .btn_wrap .green2.selected {
+    background-color: #FFF;
+    color: #FFF;
+}
+
+.colours .btn_wrap .green3.selected {
+    background-color: #FFF;
+    color: #FFF;
+}
+
+.colours .btn_wrap .green4.selected {
+    background-color: #FFF;
+    color: #FFF;
+}
+
+.colours .btn_wrap .grey.selected {
+    background-color: #FFF;
+    color: #FFF;
+}
+
+.colours .btn_wrap .orange1.selected {
+    background-color: #FFF;
+    color: #FFF;
+}
+
+.colours .btn_wrap .orange2.selected {
+    background-color: #FFF;
+    color: #FFF;
 }
 
 .colours .btn_wrap .pink.selected {
-    background-color: #FF69AA;
+    background-color: #FFF;
+    color: #FFF;
+}
+
+.colours .btn_wrap .purple1.selected {
+    background-color: #FFF;
+    color: #FFF;
+}
+
+.colours .btn_wrap .purple2.selected {
+    background-color: #FFF;
+    color: #FFF;
+}
+
+.colours .btn_wrap .red1.selected {
+    background-color: #FFF;
+    color: #FFF;
+}
+
+.colours .btn_wrap .red2.selected {
+    background-color: #FFF;
     color: #FFF;
 }
 
 .colours .btn_wrap .white.selected {
-    background-color: #EEE;
-    color: #212121;
+    background-color: #FFF;
+    color: #FFF;
 }
 
-.colours .btn_wrap .purple.selected {
-    background-color: #927CB6;
+.colours .btn_wrap .yellow1.selected {
+    background-color: #FFF;
+    color: #FFF;
+}
+
+.colours .btn_wrap .yellow2.selected {
+    background-color: #FFF;
     color: #FFF;
 }
 
