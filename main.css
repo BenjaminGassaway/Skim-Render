@@ -120,27 +120,27 @@ button {
         }
 
 .colours .btn_wrap .beige1.selected {
-    background-color: #FFF;
-    color: #FFF;
+    background-color: #EBECDD;
+    color: #000000;
 }
 
 .colours .btn_wrap .beige2.selected {
-    background-color: #FFF;
-    color: #FFF;
+    background-color: #EEE4B1;
+    color: #000000;
 }
 
 .colours .btn_wrap .black.selected {
-    background-color: #FFF;
+    background-color: #000000;
     color: #FFF;
 }
 
 .colours .btn_wrap .blue1.selected {
-    background-color: #FFF;
-    color: #FFF;
+    background-color: #D1ECF6;
+    color: #000000;
 }
 
 .colours .btn_wrap .blue2.selected {
-    background-color: #FFF;
+    background-color: #0D5EBB;
     color: #FFF;
 }
 
@@ -150,88 +150,88 @@ button {
 }
 
 .colours .btn_wrap .brown.selected {
-    background-color: #FFF;
+    background-color: #4D2C16;
     color: #FFF;
 }
 
 .colours .btn_wrap .clear.selected {
-    background-color: #FFF;
-    color: #FFF;
+    background-color: #FFFFFF;
+    color: #000000;
 }
 
 .colours .btn_wrap .green1.selected {
-    background-color: #FFF;
+    background-color: #CDE4BF;
     color: #FFF;
 }
 
 .colours .btn_wrap .green2.selected {
-    background-color: #FFF;
+    background-color: #ACD373;
     color: #FFF;
 }
 
 .colours .btn_wrap .green3.selected {
-    background-color: #FFF;
+    background-color: #50B74F;
     color: #FFF;
 }
 
 .colours .btn_wrap .green4.selected {
-    background-color: #FFF;
+    background-color: #0C703F;
     color: #FFF;
 }
 
 .colours .btn_wrap .grey.selected {
-    background-color: #FFF;
+    background-color: #9B9B9B;
     color: #FFF;
 }
 
 .colours .btn_wrap .orange1.selected {
-    background-color: #FFF;
+    background-color: #F29231;
     color: #FFF;
 }
 
 .colours .btn_wrap .orange2.selected {
-    background-color: #FFF;
+    background-color: #F7A57B;
     color: #FFF;
 }
 
 .colours .btn_wrap .pink.selected {
-    background-color: #FFF;
+    background-color: #F3A0C4;
     color: #FFF;
 }
 
 .colours .btn_wrap .purple1.selected {
-    background-color: #FFF;
+    background-color: #927CB6;
     color: #FFF;
 }
 
 .colours .btn_wrap .purple2.selected {
-    background-color: #FFF;
+    background-color: #624F9D;
     color: #FFF;
 }
 
 .colours .btn_wrap .red1.selected {
-    background-color: #FFF;
+    background-color: #DE4454;
     color: #FFF;
 }
 
 .colours .btn_wrap .red2.selected {
-    background-color: #FFF;
+    background-color: #E9222D;
     color: #FFF;
 }
 
 .colours .btn_wrap .white.selected {
-    background-color: #FFF;
-    color: #FFF;
+    background-color: #FFFFFF;
+    color: #000000;
 }
 
 .colours .btn_wrap .yellow1.selected {
-    background-color: #FFF;
-    color: #FFF;
+    background-color: #F2E959;
+    color: #000000;
 }
 
 .colours .btn_wrap .yellow2.selected {
-    background-color: #FFF;
-    color: #FFF;
+    background-color: #FCD75F;
+    color: #000000;
 }
 
 .submit {
